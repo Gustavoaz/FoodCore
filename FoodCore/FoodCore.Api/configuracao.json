@@ -1,0 +1,24 @@
+﻿{
+  "Ingrediente": [
+    { "Alface": "0,40" },
+    { "Bacon": "0,40" },
+    { "Hambúrguer de carne": "0,40" },
+    { "Ovo": "0,40" },
+    { "Queijo": "0,40" }
+  ],
+  "Lanche": [
+    {
+      "X-Bacon": [ "Bacon", "hambúrguer de carne", "queijo" ]
+    },
+    {
+      "X-Burger": [ "hambúrguer de carne", "queijo" ]
+    },
+    {
+      "X-Egg": [ "Ovo", "hambúrguer de carne", "queijo" ]
+    },
+    {
+      "X-Egg Bacon": [ "Ovo", "bacon", "hambúrguer de carne", "queijo" ]
+    }
+  ],
+  "Promocao": [ "Light", "Muita carne", "Muito queijo", "Inflação" ]
+}

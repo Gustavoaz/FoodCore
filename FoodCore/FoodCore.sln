@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodCore.Api", "FoodCore.Ap
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{16B58955-3C90-4523-9C5B-A5D5940A9798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodCore.Domain", "..\FoodCore.Domain\FoodCore.Domain.csproj", "{B82D729C-44E9-4302-B764-D8B51E700254}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodCore.Domain", "FoodCore.Domain\FoodCore.Domain.csproj", "{B82D729C-44E9-4302-B764-D8B51E700254}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodCore.Domain.Test", "FoodCore.Domain.Test\FoodCore.Domain.Test.csproj", "{C344C5AF-4CCE-4DBD-BFC2-2D0D59E57726}"
 EndProject

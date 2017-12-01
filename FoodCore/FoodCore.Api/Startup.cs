@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using System.Configuration;
 
 namespace FoodCore.Api
 {
@@ -33,6 +34,8 @@ namespace FoodCore.Api
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            ConfigurationManager.AppSettings["ContentRootPath"] = env.ContentRootPath;
 
             app.UseMvc();
         }

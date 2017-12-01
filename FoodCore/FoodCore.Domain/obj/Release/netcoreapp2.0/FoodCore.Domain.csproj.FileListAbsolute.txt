@@ -1,0 +1,9 @@
+C:\Git Gustavo\FoodCore\FoodCore.Domain\bin\Release\netcoreapp2.0\FoodCore.Domain.deps.json
+C:\Git Gustavo\FoodCore\FoodCore.Domain\bin\Release\netcoreapp2.0\FoodCore.Domain.dll
+C:\Git Gustavo\FoodCore\FoodCore.Domain\bin\Release\netcoreapp2.0\FoodCore.Domain.pdb
+C:\Git Gustavo\FoodCore\FoodCore.Domain\obj\Release\netcoreapp2.0\FoodCore.Domain.csprojResolveAssemblyReference.cache
+C:\Git Gustavo\FoodCore\FoodCore.Domain\obj\Release\netcoreapp2.0\FoodCore.Domain.csproj.CoreCompileInputs.cache
+C:\Git Gustavo\FoodCore\FoodCore.Domain\obj\Release\netcoreapp2.0\FoodCore.Domain.AssemblyInfoInputs.cache
+C:\Git Gustavo\FoodCore\FoodCore.Domain\obj\Release\netcoreapp2.0\FoodCore.Domain.AssemblyInfo.cs
+C:\Git Gustavo\FoodCore\FoodCore.Domain\obj\Release\netcoreapp2.0\FoodCore.Domain.dll
+C:\Git Gustavo\FoodCore\FoodCore.Domain\obj\Release\netcoreapp2.0\FoodCore.Domain.pdb

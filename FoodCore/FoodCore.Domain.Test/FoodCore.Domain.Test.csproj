@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\FoodCore.Domain\FoodCore.Domain.csproj" />
+    <ProjectReference Include="..\FoodCore.Domain\FoodCore.Domain.csproj" />
   </ItemGroup>
 
 </Project>

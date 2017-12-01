@@ -1,4 +1,5 @@
 ﻿using FoodCore.Domain.Contract.Interface;
+using FoodCore.Domain.Entities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ namespace FoodCore.Domain.Test
     public class SnackSaleServiceTest
     {
         protected ISnackSaleService service;
+        protected List<Ingrediente> ingredientes;
         //protected List<Promocao> promocoes;
         //protected Cardapio mockContext;
 
