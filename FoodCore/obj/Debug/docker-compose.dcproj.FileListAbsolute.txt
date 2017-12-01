@@ -1,0 +1,1 @@
+C:\Git Gustavo\FoodCore\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

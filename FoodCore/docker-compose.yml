@@ -2,7 +2,7 @@ version: '3'
 
 services:
   foodcore.api:
-    image: foodcore.api
+    image: ./foodcore:dev
     build:
       context: ./FoodCore.Api
       dockerfile: Dockerfile
