@@ -1,0 +1,11 @@
+C:\Git Gustavo\FoodCore\FoodCore.Api\bin\Debug\netcoreapp2.0\FoodCore.Api.deps.json
+C:\Git Gustavo\FoodCore\FoodCore.Api\bin\Debug\netcoreapp2.0\FoodCore.Api.runtimeconfig.json
+C:\Git Gustavo\FoodCore\FoodCore.Api\bin\Debug\netcoreapp2.0\FoodCore.Api.runtimeconfig.dev.json
+C:\Git Gustavo\FoodCore\FoodCore.Api\bin\Debug\netcoreapp2.0\FoodCore.Api.dll
+C:\Git Gustavo\FoodCore\FoodCore.Api\bin\Debug\netcoreapp2.0\FoodCore.Api.pdb
+C:\Git Gustavo\FoodCore\FoodCore.Api\obj\Debug\netcoreapp2.0\FoodCore.Api.csprojResolveAssemblyReference.cache
+C:\Git Gustavo\FoodCore\FoodCore.Api\obj\Debug\netcoreapp2.0\FoodCore.Api.csproj.CoreCompileInputs.cache
+C:\Git Gustavo\FoodCore\FoodCore.Api\obj\Debug\netcoreapp2.0\FoodCore.Api.AssemblyInfoInputs.cache
+C:\Git Gustavo\FoodCore\FoodCore.Api\obj\Debug\netcoreapp2.0\FoodCore.Api.AssemblyInfo.cs
+C:\Git Gustavo\FoodCore\FoodCore.Api\obj\Debug\netcoreapp2.0\FoodCore.Api.dll
+C:\Git Gustavo\FoodCore\FoodCore.Api\obj\Debug\netcoreapp2.0\FoodCore.Api.pdb
