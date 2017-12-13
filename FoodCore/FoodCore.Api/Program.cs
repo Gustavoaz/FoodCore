@@ -19,7 +19,9 @@ namespace FoodCore.Api
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseIISIntegration()
                 .UseStartup<Startup>()
+                .UseUrls("http://*:5000/")
                 .Build();
     }
 }
